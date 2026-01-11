@@ -1,7 +1,7 @@
-# GitHub for Developers
+# GitHub for Developers10jann
 
-- Class Date: 9jan2026
-- Facilitator: @roro
+- Class Date: 11jan2026
+- Facilitator: @ahmed
 
 ## Class Resources
 

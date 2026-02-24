@@ -1,5 +1,5 @@
 # GitHub for Developers10v1.0
-
+Updating readme
 - Class Date: 11jan2026
 - Facilitator: @ahmed
 

@@ -1,4 +1,4 @@
-# GitHub for Developers10v1.0
+# GitHub for Developers10v1.1
 
 - Class Date: 11jan2026
 - Facilitator: @ahmed

@@ -1,4 +1,4 @@
-# GitHub for Developers V:0.2
+# GitHub for Developers V:0.3
 
 - Class Date: 11jan2026
 - Facilitator: @ahmed

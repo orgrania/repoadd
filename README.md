@@ -11,16 +11,7 @@
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
 <details>
-## Installation 
-```bash git clone https://github.com/yourusername/my-website.git 
-cd my-website
- npm install 
-npm start
-↓ Step 5: Scroll to bottom 
-↓ Step 6: Write commit message 
-↓ Step 7: Select "Commit directly to your branch" 
-↓ Step 8: Click "Commit changes" 
-↓ ✅ PR updated automatically!
+
 
 
 

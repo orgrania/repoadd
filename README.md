@@ -1,7 +1,7 @@
 # GitHub for Developers10v1.00
 
-- Class Date: 24feb2025
-- Facilitator: @joseph
+- Class Date: 24feb2024
+- Facilitator: @jose
 
 ## Class Resources
 

@@ -1,4 +1,4 @@
-# GitHub for Developers V:0.2
+
 
 - Class Date: 11jan2026
 - Facilitator: @ahmed
@@ -11,6 +11,10 @@
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
 <details>
+
+
+
+
 
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
 

@@ -1,4 +1,4 @@
-# GitHub for Developers V:3.0
+# GitHub for Developers V:1.0
 
 - Class Date: 10sept2026
 - Facilitator: @christen
